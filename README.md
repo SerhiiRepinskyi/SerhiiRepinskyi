@@ -3,7 +3,7 @@
 <p align="center"> Welcome to my GitHub! <img src="./assets/blob-sunglasses.gif" width="28"/></p>
 
 <div align="center">
-  <img src="./assets/SUV4.gif" alt="Rotating SUV animation" width="300">
+  <img src="./assets/SUV4.gif" alt="Rotating SUV animation" width="400">
 </div>
 
 ### 🚀 About Me
@@ -50,5 +50,13 @@ Passionate Full Stack Developer from Ukraine with expertise in **JavaScript**, *
 <p align="center">
   <a href="https://u8views.com/github/SerhiiRepinskyi">
     <img alt="Serhii Repinskyi profile views" src="https://u8views.com/api/v1/github/profiles/115186821/views/day-week-month-total-count.svg">
+  </a>
+</p>
+
+### 🏆 Codewars Badge
+
+<p align="center">
+  <a href="https://www.codewars.com/users/Serhii%20Repinskyi">
+    <img alt="Serhii's Codewars Badge" src="https://www.codewars.com/users/Serhii%20Repinskyi/badges/small">
   </a>
 </p>
