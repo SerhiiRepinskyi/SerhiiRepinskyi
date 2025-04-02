@@ -8,7 +8,8 @@
 
 ### 🚀 About Me
 
-Passionate Full Stack Developer from **Ukraine** <img src="./assets/Flag_of_Ukraine.svg" width="20" height="14"/> with expertise in **JavaScript**, **TypeScript**, **React** and **Node.js**. Always open to new challenges and opportunities!
+Passionate Full Stack Developer from **Ukraine** <img src="./assets/Flag_of_Ukraine.svg" width="20" height="14"/> with expertise in **JavaScript**, **TypeScript**, **React** and **Node.js**.  
+Always open to new challenges and opportunities!
 
 ### 📫 How to reach me
 
