@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-Passionate Full Stack Developer from Ukraine with expertise in **JavaScript**, **TypeScript**, **React** and **Node.js**. I enjoy building efficient, scalable, and user-friendly applications while continuously learning and exploring new technologies. Always open to new challenges and opportunities!
+Passionate Full Stack Developer from **Ukraine** <img src="./assets/Flag_of_Ukraine.svg" width="20" height="14"/> with expertise in **JavaScript**, **TypeScript**, **React** and **Node.js**. Always open to new challenges and opportunities!
 
 ### 📫 How to reach me
 
@@ -17,25 +17,32 @@ Passionate Full Stack Developer from Ukraine with expertise in **JavaScript**, *
 
 ### 🛠️ Languages and Tools
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
-  <img src="./images/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-  <img src="./images/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-  <img src="./images/javascript-original.svg" alt="javascript" width="60" height="60"/>
-  <img src="./images/typescript-original.svg" alt="typescript" width="60" height="60"/>
-  <img src="./images/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-  <img src="./images/redux-original.svg" alt="redux" width="60" height="60"/>
-  <img src="./images/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-  <img src="./images/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-  <img src="./images/express-original-wordmark.svg" alt="express" width="60" height="60"/>
-  <img src="./images/sass-original.svg" alt="sass" width="60" height="60"/>
-  <img src="./images/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
-  <img src="./images/bem.svg" alt="bem" width="60" height="60"/>
-  <img src="./images/postman-icon.svg" alt="postman" width="60" height="60"/>
-  <img src="./images/git-scm-icon.svg" alt="git" width="60" height="60"/>
-  <img src="./images/vscode.svg" alt="vscode" width="60" height="60"/>
-  <img src="./images/figma-icon.svg" alt="figma" width="60" height="60"/>
-  <img src="./images/Matlab_Logo.png" alt="matlab" width="60" height="60"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="./images/html5-original-wordmark.svg" width="40" height="40"/><br>HTML5</td>
+    <td align="center"><img src="./images/css3-original-wordmark.svg" width="40" height="40"/><br>CSS3</td>
+    <td align="center"><img src="./images/javascript-original.svg" width="40" height="40"/><br>JavaScript</td>
+    <td align="center"><img src="./images/typescript-original.svg" width="40" height="40"/><br>TypeScript</td>
+    <td align="center"><img src="./images/react-original-wordmark.svg" width="40" height="40"/><br>React</td>
+    <td align="center"><img src="./images/redux-original.svg" width="40" height="40"/><br>Redux</td>
+    <td align="center"><img src="./images/nodejs-original-wordmark.svg" width="40" height="40"/><br>Node.js</td>
+    <td align="center"><img src="./images/mongodb-original-wordmark.svg" width="40" height="40"/><br>MongoDB</td>
+    <td align="center"><img src="./images/express-original-wordmark.svg" width="40" height="40"/><br>Express</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./images/sass-original.svg" width="40" height="40"/><br>Sass</td>
+    <td align="center"><img src="./images/tailwindcss-icon.svg" width="40" height="40"/><br>Tailwind CSS</td>
+    <td align="center"><img src="./images/bem.svg" width="40" height="40"/><br>BEM</td>
+    <td align="center"><img src="./images/postman-icon.svg" width="40" height="40"/><br>Postman</td>
+    <td align="center"><img src="./images/git-scm-icon.svg" width="40" height="40"/><br>Git</td>
+    <td align="center"><img src="./images/vite.svg" width="40" height="40"/><br>Vite</td>
+    <td align="center"><img src="./images/vscode.svg" width="40" height="40"/><br>VS Code</td>
+    <td align="center"><img src="./images/figma-icon.svg" width="40" height="40"/><br>Figma</td>
+    <td align="center"><img src="./images/Matlab_Logo.png" width="40" height="40"/><br>MATLAB</td>
+  </tr>
+</table>
+
+
 
 ### 📊 My stats
 
